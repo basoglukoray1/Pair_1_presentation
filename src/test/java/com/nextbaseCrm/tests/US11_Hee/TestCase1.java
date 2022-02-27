@@ -6,5 +6,7 @@ public class TestCase1 {
 
 
         System.out.println("Hello");
+
+        System.out.println("Hi");
     }
 }
